@@ -1,6 +1,6 @@
 # Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT course notes
 
-This repository contains the Jupyter notebooks I developed while taking the **Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT** course on Udemy. The notebooks include my personal notes, code snippets, and solutions to the exercises provided in the course. They serve as a comprehensive reference for revisiting key concepts and techniques in artificial intelligence.
+This repository contains the Jupyter notebooks I developed while taking the **Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT** course on Udemy. The notebooks include my personal notes and they serve as a comprehensive reference for revisiting key concepts and techniques in artificial intelligence.
 
 ## Course Overview
 
